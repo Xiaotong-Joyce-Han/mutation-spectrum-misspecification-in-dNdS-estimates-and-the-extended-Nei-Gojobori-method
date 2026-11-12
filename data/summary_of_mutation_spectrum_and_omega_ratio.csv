@@ -1,0 +1,67 @@
+Groups,Species,p(AT to TA),p(AT to CG),p(AT to GC),p(CG to GC),p(CG to AT),p(CG to TA),mutation propensity ratio,FC brought by spectrum
+Bacteria,Agrobacterium tumefaciens C58,0.17,0.26,0.57,0.23,0.22,0.55,1.492780917,0.7994509505310365
+Bacteria,Arthrobacter sp. KBS0703,0.14,0.31,0.55,0.15,0.22,0.63,0.917360048,0.855715329
+Bacteria,Bacillus subtilis NCIB 3610,0.15,0.14,0.71,0.05,0.15,0.8,1.139086777,0.6882470165765859
+Bacteria,Burkhoderia cenocepacia HI2424,0.19,0.37,0.44,0.19,0.2,0.61,0.85634077,0.902498198
+Bacteria,Caulobacter crescentus NA1000,0.13,0.12,0.75,0.14,0.05,0.8,0.506979863,0.9438963571861739
+Bacteria,Colwellia psychrerythraea 34H,0.09,0.12,0.79,0.07,0.08,0.85,1.762437366,0.6921714647702244
+Bacteria,Deinococcus radiodurans BAA-816,0.1,0.43,0.47,0.05,0.17,0.79,0.519151838,0.9715353127052323
+Bacteria,Escherichia coli K-12 MG1655,0.27,0.37,0.37,0.11,0.18,0.71,0.899847784,0.8501594537933348
+Bacteria,Flavobacterium sp.  KBS0721,0.33,0.16,0.52,0.18,0.31,0.51,6.767514023,1.0394465821708487
+Bacteria,Gemmata_obscuriglobus DSM5831 (contaminated),0.1,0.24,0.67,0.07,0.15,0.78,1.031905177,0.7597957073319143
+Bacteria,Janthinobacterium lividum KBS0711 (genome size too small),0,0.29,0.71,0.09,0.11,0.8,3.247450671,
+Bacteria,Kineococcus radiotolerans SRS30216,0.08,0.34,0.58,0.14,0.07,0.8,1.571247962,0.6990303331042578
+Bacteria,Lactococcus lactis DSMZ20481,0.1,0.32,0.57,0.05,0.45,0.5,10.62379847,1.1662980717372178
+Bacteria,Mesoplasma florum L1,0.2,0.15,0.65,0.15,0.3,0.54,15.14222465,1.719630995842725
+Bacteria,Micrococcus sp. KBS0714,0.05,0.36,0.58,0.15,0.35,0.49,0.440311187,1.247926611350352
+Bacteria,Mycobacterium smegmatis MC2 155,0.04,0.33,0.63,0.09,0.33,0.58,0.754950261,0.9115491874430456
+Bacteria,Rhodobacter sphaeroides ATCC17025 (couldn't find sequence),0.18,0.18,0.64,0.06,0.08,0.85,4.057088175,
+Bacteria,Ruegeria pomeroyi DSS-3,0.17,0.25,0.58,0.15,0.08,0.76,0.429039273,1.0166640731697658
+Bacteria,Staphylococcus aureus ATCC 25923,0.22,0.2,0.57,0.04,0.37,0.59,3.690794697,0.9810432713607645
+Bacteria,Staphylococcus epidermidis ATCC 12228,0.49,0.2,0.31,0.06,0.43,0.51,3.59904778,1.1622088443898628
+Bacteria,Vibrio cholerae 2740-80,0.16,0.43,0.41,0.07,0.28,0.65,2.083806812,0.7933371830290462
+Bacteria,Vibrio fischeri ES114,0.07,0.45,0.48,0.06,0.48,0.45,4.42737109,1.1061170362152069
+Bacteria,JCVI-syn3B,0.571428571,0.2,0.228571429,0.010288066,0.288065844,0.701646091,43.29876063,2.5888415906365605
+Bacteria,JCVI-syn1.0,0.310502283,0.091324201,0.598173516,0.118793212,0.404148334,0.477058454,23.00789018,2.212343866011112
+Multicellular eukaryotes,Arabidopsis thaliana Col-0 (nuclear),0.208333333,0.291666667,0.5,0.106666667,0.12,0.773333333,4.83983349,0.7876999196066589
+Multicellular eukaryotes,Caenorhabditis elegans N2 (nuclear),0.502923977,0.257309942,0.239766082,0.136363636,0.5,0.363636364,1.894050024,1.036715915363982
+Multicellular eukaryotes,Daphnia pulex ASEX without ASEX-12 (no feature annotation),0.325842697,0.258426966,0.415730337,0.068493151,0.253424658,0.678082192,2.101408528,
+Multicellular eukaryotes,Drosophila melanogaster IVe (nuclear),0.380952381,0.199134199,0.41991342,0.105788423,0.177644711,0.716566866,2.636020831,0.6542726141116606
+Multicellular eukaryotes,Ficedula albicollis (nuclear),0.15,0.2,0.65,0.142857143,0.085714286,0.771428571,2.207741137,0.6553728057776411
+Multicellular eukaryotes,"Homo sapiens CEU, YRI, Iceland (nuclear)",0.199049565,0.132741813,0.668208622,0.118708627,0.140298363,0.74099301,2.297589178,0.6780562821844355
+Multicellular eukaryotes,"Mus musculus C57BL/6 (nuclear, used 1635.27_GRCm39 instead due to lack of feature annotation)",0.300112915,0.218262572,0.481624513,0.096773977,0.132258216,0.770967807,3.134122868,0.6594651246635738
+Multicellular eukaryotes,Oryza sativa (nuclear),0.176470588,0.176470588,0.647058824,0.088235294,0.147058824,0.764705882,2.591324619,0.6773922767727447
+Multicellular eukaryotes,Pan troglodytes verus (nuclear),0.128571429,0.185714286,0.685714286,0.128378378,0.195945946,0.675675676,3.06914955,0.692998137
+Unicellular eukaryotes,"Chlamydomonas reinhardtii 
+(CC1373, CC1952, CC2342, CC2937) (used GCF_000002595.2 instead, presumably nuclear)",0.256097561,0.288617886,0.455284553,0.228956229,0.258417508,0.512626263,2.414634146,0.8065167054982104
+Unicellular eukaryotes,"Plasmodium falciparum 
+(3D7,Dd2,HB3,KH1-01,KH2-01,W2) (nuclear)",0.425531915,0.127659574,0.446808511,0.131578947,0.236842105,0.631578947,3.366608115,0.8877797357962572
+Unicellular eukaryotes,Rhodotorula toruloides ATCC10788,0.086792453,0.256603774,0.656603774,0.191536748,0.167037862,0.64142539,1.037148474,0.8155124140887414
+Unicellular eukaryotes,Saccharomyces cerevisiae S288C (nuclear),0.194986072,0.3454039,0.459610028,0.220472441,0.271653543,0.507874016,2.122562674,0.883372771
+Unicellular eukaryotes,Schizosaccharomyces pombe ED668 (nuclear),0.132911392,0.335443038,0.53164557,0.185770751,0.43083004,0.383399209,2.841786516,1.0147787091818399
+Unicellular eukaryotes,Sphaeroforma arctica JP610 (nuclear),0.19047619,0.085714286,0.723809524,0.050458716,0.100917431,0.848623853,2.823708182,0.6325395139959298
+Unicellular eukaryotes,"Saccharomyces cerevisiae S288C (nuclear, Cu)",0.211538462,0.269230769,0.519230769,0.164383562,0.356164384,0.479452055,2.261800521,0.8708445048963442
+Unicellular eukaryotes,"Saccharomyces cerevisiae S288C (nuclear, Li)",0.234042553,0.138297872,0.627659574,0.079069767,0.423255814,0.497674419,1.842533505,0.8017336426846906
+Unicellular eukaryotes,"Saccharomyces cerevisiae S288C (nuclear, Na)",0.243589744,0.371794872,0.384615385,0.054726368,0.597014925,0.348258706,4.151798216,1.0148536252342695
+Unicellular eukaryotes,"Saccharomyces cerevisiae S288C (nuclear, YNB)",0.191780822,0.383561644,0.424657534,0.12,0.528,0.352,2.758810919,0.9870003933776997
+Unicellular eukaryotes,"Saccharomyces cerevisiae S288C (nuclear, YPD)",0.266666667,0.266666667,0.466666667,0.134328358,0.47761194,0.388059701,2.398816747,0.938228632
+Unicellular eukaryotes,"Saccharomyces cerevisiae S288C (nuclear, YPL)",0.26984127,0.476190476,0.253968254,0.155339806,0.339805825,0.504854369,2.634095149,0.9582741389724914
+Unicellular eukaryotes,"Saccharomyces cerevisiae S288C (nuclear, YPX)",0.122807018,0.403508772,0.473684211,0.106666667,0.36,0.533333333,2.11992839,0.8562490943909578
+"Abbreviations: 
+0-fold, nonsynonymous sites;
+2-fold, two fold degenerate sites;
+4-fold, four fold degenerate sites;
+BPS, base-pair substitution; 
+inter, intergenic region;
+m, mutation bias to the A/T direction: G/C>A/T ÷ A/T>G/C mutation rate; 
+MA, mutation accumulation; 
+Multicellular eukaryotes, multicellular eukaryotes; 
+neutral, G/C content based on the neutral expectation, i.e. G/C content solely determined by mutation rate;
+S, population-scaled selection strength;",,,,,,,,,
+"1 Based on list of base substitutions in the supplemental materials; 
+2 CC2344 and CC2931 are excluded due to presence of mutator lines;  
+3 Mean mutation rate of three human populations; 
+4 Mutation rate per erythrocytic life cycle per site; 
+5 Standard error (SE) was calculated by following formula A1.19a Lynch & Walsh (1998) page 818, assuming no covariance, 95% confidence interval was calculated by neutral expectation ± 1.96 _ SE 
+6 All standard errors of these G/C compositions are < 0.001
+",,,,,,,,,
