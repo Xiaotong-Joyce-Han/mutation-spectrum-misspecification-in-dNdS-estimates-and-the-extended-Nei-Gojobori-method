@@ -1,0 +1,23 @@
+data/
+1. For testing assumptions of the Nei-Gojobori and Goldman-Yang methods
+- MA_from_Long_et_al_and_Liu_and_Zhang_6type_counts.xlsm
+- MA_from_Long_et_al_and_Liu_and_Zhang_12type_counts.csv
+    raw counts in MA experiments
+- results_test_assumptions_of_methods
+    results from statistical testing, Table 1
+
+2. For the effect of mutation spectrum misspecification on Nei-Gojobori omega estimates
+- omega_ratio_for_individual_genes/
+    Data for Figure 4, S1
+- statistics
+    Data in Table S2
+- summary_of_mutation_spectrum_and_omega_ratio.csv
+- summary_of_mutation_spectrum_and_omega_ratio_updated.csv
+    Data for Figure 2, 3, S2
+
+scripts/
+- data_processing_and_figure_making_effect_of_mutation_spectrum_on_Nei_Gojobori_method.R
+    Figure making for Figure 2, 3, 4, S1, S2, Table S2
+    Processing summary_of_mutation_spectrum_and_omega_ratio.csv to summary_of_mutation_spectrum_and_omega_ratio_updated.csv
+- testing_assumptions_of_Nei_Gojobori_method.R
+- testing_assumptions_of_Goldman_Yang_method.R
