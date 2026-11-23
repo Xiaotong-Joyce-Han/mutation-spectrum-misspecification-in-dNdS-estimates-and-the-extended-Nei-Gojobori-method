@@ -15,9 +15,33 @@ data/
 - summary_of_mutation_spectrum_and_omega_ratio_updated.csv
     Data for Figure 2, 3, S2
 
+3. Evolution simulation
+- evolution_simulation/
+    - codon_table_1.csv
+    - codon_table_4.csv
+    - loading_data.csv
+    Files used in evolution_simulator.py
+
+4. Comparison between methods (divergence = 0.01)
+- compare_NG_GY_extended_NG
+    Data for Figure 5
+
+5. Divergence gradient
+- divergence_gradient/
+    Data for divergence gradient analysis and Figure S3
+- species_list_all
+- species_list_large
+- species_list_small
+    List of species (mutation spectrum) indices
+
+
+
+
 scripts/
 - data_processing_and_figure_making_effect_of_mutation_spectrum_on_Nei_Gojobori_method.R
     Figure making for Figure 2, 3, 4, S1, S2, Table S2
     Processing summary_of_mutation_spectrum_and_omega_ratio.csv to summary_of_mutation_spectrum_and_omega_ratio_updated.csv
 - testing_assumptions_of_Nei_Gojobori_method.R
 - testing_assumptions_of_Goldman_Yang_method.R
+- evolution_simulator.py
+
